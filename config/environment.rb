@@ -1,2 +1,2 @@
 require "bundler/setup"
-Bundler.require(:default, :)
+Bundler.require(:default, :development)
